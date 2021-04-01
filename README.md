@@ -1,13 +1,13 @@
-# 🌳 Milieu (moderator dashboard)
+# 🌳 Millieu (moderator dashboard)
 
-Milieu is an customisable open-source interface that enables users to turn conferences, online communities or group chats into explorable social worlds.
+Millieu is an customisable open-source interface that enables users to turn conferences, online communities or group chats into explorable social worlds.
 
 ## Get started
 
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd millieu-moderator
 npm install
 ```
 
