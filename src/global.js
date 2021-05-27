@@ -1,6 +1,6 @@
 import { format, getYear } from "date-fns"
 
-export const SANITY_PROJECT_ID = "bu5rnal5"
+export const SANITY_PROJECT_ID = "ud6cpqfu"
 
 export const VIDEO_ROOMS = {MAIN: "main", SUPPORT: "support"}
 export const AUDIO_ROOMS= [1,2,3,4,5,6,7]
